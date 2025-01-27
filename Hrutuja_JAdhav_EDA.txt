@@ -1,0 +1,22 @@
+Top 5 Products by Sales:
+ProductName
+ActiveWear Smartwatch    39096.97
+SoundWave Headphones     25211.64
+SoundWave Novel          24507.90
+ActiveWear Jacket        22712.56
+ActiveWear Rug           22314.43
+
+Top 5 Customers by Transaction Value:
+CustomerName
+Paul Parsons     10673.87
+Bruce Rhodes      8040.39
+Gerald Hines      7663.70
+William Adams     7634.45
+Aimee Taylor      7572.91
+
+Region-wise Sales:
+Region
+South America    219352.56
+Europe           166254.63
+North America    152313.40
+Asia             152074.97
